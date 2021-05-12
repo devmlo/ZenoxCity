@@ -1,6 +1,6 @@
 {
-	"ip":"ZenoxCityy.aternos.me",
+	"ip":"ZenoxCity.ml",
 	"port": "25565",
 	"name": "ZenoxCity",
-	"auto-night-skip":"true"
+	"auto-night-skip":"false"
 }
